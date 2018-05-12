@@ -1,0 +1,32 @@
+_repo: Leonore-Stubbs_31943
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Walford, Lucy Bethia
+    aliases:
+    - Colquhoun, Lucy Bethia
+    - Walford, L. B. (Lucy Bethia)
+    birthdate: 1845
+    deathdate: 1915
+    gutenberg_agent_id: '35568'
+    url: http://www.gutenberg.org/2009/agents/35568
+description: ''
+gutenberg_issued: '2010-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31943'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Widows -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Families -- Fiction'
+- !lcsh 'Courtship -- Fiction'
+title: Leonore Stubbs
+url: http://www.gutenberg.org/ebooks/31943
